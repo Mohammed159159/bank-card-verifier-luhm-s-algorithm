@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Mohammed Hany\Desktop\Projects\credit\credit\main.c(29,1): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Mohammed Hany\Desktop\Projects\credit\credit\main.c(27,30): warning C4101: 'su': unreferenced local variable
+  credit.vcxproj -> C:\Users\Mohammed Hany\Desktop\Projects\credit\Debug\credit.exe
